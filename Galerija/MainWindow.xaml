@@ -1,0 +1,22 @@
+﻿<Window x:Class="Galerija.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Galerija" Height="350" Width="650" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="slika.jpg"/>
+    </Window.Background>
+    <Grid Margin="-3,0,3.2,-0.2" RenderTransformOrigin="0.507,0.505">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Dela" Margin="77,118,0,0" Click="Button_Click_1" Width="100" Height="30" Background="#FFB0B0B0" FontFamily="HP Simplified Light" FontSize="14" Opacity="0.95" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="2"/>
+        <Button Content="Tehnika" Margin="77,74,0,0" Click="Button_Click" Width="100" Height="30" Background="#FFB0B0B0" FontFamily="HP Simplified Light" FontSize="14" Opacity="0.95" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="2"/>
+        <Button Content="Autori" Margin="77,30,0,0" Click="Button_Click_2" Width="100" Height="30" Background="#FFB0B0B0" FontFamily="HP Simplified Light" FontSize="14" Opacity="0.95" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="2"/>
+        <Button Content="Prodaja Dela" Margin="77,161,0,0" Click="Button_Click_3" Width="100" Height="30" Background="#FFB0B0B0" FontFamily="HP Simplified Light" FontSize="14" Opacity="0.95" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="2"/>
+        <Button Content="Nabavka Dela" Margin="77,204,0,0" Click="Button_Click_4" Width="100" Height="30" Background="#FFB0B0B0" FontFamily="HP Simplified Light" FontSize="14" Opacity="0.95" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="2"/>
+        <Button Content="Klijenti" Margin="77,250,0,0" Click="Button_Click_5" Width="100" Height="30" Background="#FFB0B0B0" FontFamily="HP Simplified Light" FontSize="14" Opacity="0.95" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="2"/>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItG/+LjROV+2setleB2AFPkXCvb/iTJVenQqU/6l5mAJoIjrFqDm3+7Riq4IHjyb30TiJvN+dbWiGVzppxtyMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Fakultet\\Projektovanje Softvera\\Galerija\\Galerija\\Galerija.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zindo\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

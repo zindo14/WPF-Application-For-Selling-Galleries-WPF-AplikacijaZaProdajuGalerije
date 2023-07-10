@@ -1,0 +1,39 @@
+﻿<Window x:Class="Galerija.Dela"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Galerija"
+        mc:Ignorable="d"
+        Title="Dela" Height="350" Width="650" WindowStartupLocation="CenterScreen">
+    <Grid Background="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Content="Unesi" HorizontalAlignment="Left" Margin="457,29,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="ButtonDodaj_Click" FontFamily="HP Simplified Light" FontSize="14" BorderThickness="2"/>
+        <Button Content="Izmeni" HorizontalAlignment="Left" Margin="457,69,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="ButtonIzmeni_Click" FontFamily="HP Simplified Light" FontSize="14" BorderThickness="2"/>
+        <Button Content="Obrisi" HorizontalAlignment="Left" Margin="457,109,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="ButtonObrisi_Click" FontFamily="HP Simplified Light" FontSize="14" BorderThickness="2"/>
+        <DataGrid x:Name="DataGridIzlozba" Margin="0,162,10.2,0" VerticalAlignment="Top" SelectionChanged="DataGrid_SelectionChanged_1" RenderTransformOrigin="4.054,11.938" Height="149" HorizontalAlignment="Right" Width="623" BorderThickness="3" FontFamily="HP Simplified Light" FontSize="14" Background="#FFE5E5E5"/>
+        <TextBox x:Name="txtNaziv" HorizontalAlignment="Left" Height="23" Margin="101,38,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontFamily="HP Simplified Light" FontSize="14" BorderThickness="2"/>
+        <TextBox x:Name="txtDelaID" HorizontalAlignment="Left" Height="23" Margin="101,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontFamily="HP Simplified Light" FontSize="14" BorderThickness="2"/>
+        <DatePicker x:Name="GodinaNastanka" HorizontalAlignment="Left" Margin="119,126,0,0" VerticalAlignment="Top"/>
+        <Label Content="DeloID" HorizontalAlignment="Left" Margin="50,11,0,0" VerticalAlignment="Top" FontFamily="HP Simplified Light" FontSize="14" RenderTransformOrigin="0.638,0.602"/>
+        <Label Content="Naziv" HorizontalAlignment="Left" Margin="56,36,0,0" VerticalAlignment="Top" FontFamily="HP Simplified Light" FontSize="14"/>
+        <Label Content="Godina nastanka" HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" FontFamily="HP Simplified Light" FontSize="14"/>
+        <Label Content="Visina Dela" HorizontalAlignment="Left" Margin="26,67,0,0" VerticalAlignment="Top" FontFamily="HP Simplified Light" FontSize="14"/>
+        <Label Content="Sirina Dela" HorizontalAlignment="Left" Margin="28,93,0,0" VerticalAlignment="Top" FontFamily="HP Simplified Light" FontSize="14"/>
+        <Button Content="Izlaz" HorizontalAlignment="Left" Margin="573,10,0,0" VerticalAlignment="Top" Width="60" Click="Button_Click" FontFamily="HP Simplified Light" FontSize="14" Height="30"/>
+        <TextBox x:Name="txtVisinaDela" HorizontalAlignment="Left" Height="23" Margin="101,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtSirinaDela" HorizontalAlignment="Left" Height="23" Margin="101,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="txtAutor" HorizontalAlignment="Left" Margin="305,10,0,0" VerticalAlignment="Top" Width="120" FontFamily="HP Simplified Light" FontSize="14" Loaded="txtAutor_Loaded"/>
+        <ComboBox x:Name="txtTehnika" HorizontalAlignment="Left" Margin="305,39,0,0" VerticalAlignment="Top" Width="120" FontFamily="HP Simplified Light" FontSize="14" Loaded="txtTehnika_Loaded"/>
+        <Label Content="Autor" HorizontalAlignment="Left" Margin="258,11,0,0" VerticalAlignment="Top" FontFamily="HP Simplified Light" FontSize="14"/>
+        <Label Content="Tehnika" HorizontalAlignment="Left" Margin="245,36,0,0" VerticalAlignment="Top" FontFamily="HP Simplified Light" FontSize="14"/>
+        <TextBox x:Name="txtPotpis" HorizontalAlignment="Left" Height="23" Margin="305,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrikazDela" HorizontalAlignment="Left" Height="23" Margin="305,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtOpis" HorizontalAlignment="Left" Height="27" Margin="305,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="135"/>
+        <Label Content="Potpis" HorizontalAlignment="Left" Margin="257,64,0,0" VerticalAlignment="Top"/>
+        <Label Content="PrikazDela" HorizontalAlignment="Left" Margin="235,95,0,0" VerticalAlignment="Top"/>
+        <Label Content="Opis" HorizontalAlignment="Left" Margin="266,121,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

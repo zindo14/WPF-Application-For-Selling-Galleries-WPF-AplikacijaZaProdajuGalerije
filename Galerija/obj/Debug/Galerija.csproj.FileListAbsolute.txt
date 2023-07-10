@@ -1,0 +1,87 @@
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\MainWindow.baml
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\MainWindow.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\App.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija_MarkupCompile.cache
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.g.resources
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.Properties.Resources.resources
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.csproj.GenerateResource.cache
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.csproj.CoreCompileInputs.cache
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\bin\Debug\Galerija.exe.config
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\bin\Debug\Galerija.exe
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\bin\Debug\Galerija.pdb
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.csproj.CopyComplete
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.exe
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.pdb
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija.csprojAssemblyReference.cache
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Galerija_MarkupCompile.lref
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Dela.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Dela.baml
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Tehnike.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Tehnike.baml
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Autori.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Autori.baml
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\ProdajaDela.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\ProdajaDela.baml
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\NabavkaDela.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\NabavkaDela.baml
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Klijenti.g.cs
+C:\Users\Zindo\Documents\Visual Studio 2019\Galerija\Galerija\obj\Debug\Klijenti.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\bin\Debug\Galerija.exe.config
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\bin\Debug\Galerija.exe
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\bin\Debug\Galerija.pdb
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csprojAssemblyReference.cache
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\MainWindow.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Autori.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Dela.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Klijenti.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\MainWindow.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\NabavkaDela.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\ProdajaDela.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Tehnike.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\App.g.cs
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija_MarkupCompile.cache
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija_MarkupCompile.lref
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Autori.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Dela.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Klijenti.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\NabavkaDela.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\ProdajaDela.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Tehnike.baml
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.g.resources
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.Properties.Resources.resources
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csproj.GenerateResource.cache
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csproj.CoreCompileInputs.cache
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csproj.CopyComplete
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.exe
+C:\Users\Zindo\Desktop\Faks sranja\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.pdb
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\bin\Debug\Galerija.exe.config
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\bin\Debug\Galerija.exe
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\bin\Debug\Galerija.pdb
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\bin\Debug\System.Data.SqlClient.dll
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csprojAssemblyReference.cache
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\MainWindow.baml
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Autori.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Dela.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Klijenti.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\MainWindow.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\NabavkaDela.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\ProdajaDela.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Tehnike.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\App.g.cs
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija_MarkupCompile.cache
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija_MarkupCompile.lref
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Autori.baml
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Dela.baml
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Klijenti.baml
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\NabavkaDela.baml
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\ProdajaDela.baml
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Tehnike.baml
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.g.resources
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.Properties.Resources.resources
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csproj.GenerateResource.cache
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csproj.CoreCompileInputs.cache
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.csproj.CopyComplete
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.exe
+D:\Fakultet\Projektovanje Softvera\Galerija\Galerija\obj\Debug\Galerija.pdb
